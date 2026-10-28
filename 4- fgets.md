@@ -50,7 +50,7 @@ return 0;
 
 ## `fgets(Var, size_of_var, stdin);`
 
-`char var[30];`
+`char var[30];` \n
 `fgets(var,30,stdin);`
 
 #### EX-1
